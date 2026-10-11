@@ -1,0 +1,146 @@
+{
+  "backend": "hashing",
+  "dimensions": 256,
+  "places": {
+    "TS-MUM-001": {
+      "text": "Colaba Causeway Market Category: shopping, markets, street market. Tags: shopping, souvenirs, local experience, street market, bargaining, budget_friendly, tourist_friendly, family_friendly. A long, busy street market in Colaba known for clothing, accessories, jewelry, souvenirs and handicrafts stalls; a popular spot for local and tourist shopping. Location: Shahid Bhagat Singh Road, Colaba, Mumbai.",
+      "vector": [
+        0.4903501868247986,
+        -0.19774264097213745,
+        0.4432670474052429,
+        -0.12511594593524933,
+        -0.01935184933245182,
+        0.0103613855317235,
+        -0.15847960114479065,
+        0.39683040976524353,
+        0.5703006982803345
+      ]
+    },
+    "TS-MUM-002": {
+      "text": "Crawford Market (Mahatma Jyotiba Phule Mandai) Category: shopping, markets, wholesale/retail market. Tags: shopping, local market, heritage building, spices, fruit, budget_friendly, tourist_friendly. A historic covered market (built in the 1860s) selling fruit, spices, household goods, pets and general merchandise; a well-known Mumbai heritage shopping landmark. Location: Lokmanya Tilak Road, near Dhobi Talao, Fort, Mumbai.",
+      "vector": [
+        0.40380463004112244,
+        -0.22157523036003113,
+        0.46158677339553833,
+        0.1414458304643631,
+        -0.08024247735738754,
+        0.08020976930856705,
+        -0.5526029467582703,
+        -0.3353269696235657,
+        -0.35226452350616455
+      ]
+    },
+    "TS-MUM-003": {
+      "text": "Chor Bazaar Category: shopping, markets, handicrafts, antiques / flea market. Tags: shopping, antiques, vintage, local experience, bargaining, hidden gem, tourist_friendly, offbeat. One of Mumbai's oldest flea markets, known for antiques, vintage furniture, old Bollywood memorabilia, curios and secondhand goods. Location: Mutton Street, Null Bazaar area, Mumbai.",
+      "vector": [
+        0.32945847511291504,
+        -0.160417377948761,
+        0.5138944983482361,
+        -0.12791815400123596,
+        -0.1230686604976654,
+        -0.06327192485332489,
+        0.7121484875679016,
+        -0.1171257272362709,
+        -0.21271966397762299
+      ]
+    },
+    "TS-MUM-004": {
+      "text": "Kala Ghoda Art District Category: culture, heritage, shopping, art district. Tags: culture, art, galleries, heritage walk, local experience, tourist_friendly, family_friendly. A heritage arts precinct with art galleries (e.g. Jehangir Art Gallery), museums nearby, boutique stores and street art; hosts the annual Kala Ghoda Arts Festival. Location: Kala Ghoda, Fort, Mumbai.",
+      "vector": [
+        0.21509553492069244,
+        -0.1845684051513672,
+        -0.015421067364513874,
+        0.6880171298980713,
+        0.57874596118927,
+        -0.30674615502357483,
+        0.11787208169698715,
+        0.05384206399321556,
+        0.015170122496783733
+      ]
+    },
+    "TS-MUM-005": {
+      "text": "Gateway of India Category: heritage, tourist attractions, monument. Tags: heritage, monument, photography, waterfront, must-visit, tourist_friendly, family_friendly, budget_friendly. An iconic early-20th-century archway monument overlooking the Arabian Sea, and the departure point for ferries to Elephanta Island. Location: Apollo Bunder, Colaba, Mumbai.",
+      "vector": [
+        0.2577926516532898,
+        -0.540785551071167,
+        -0.35751110315322876,
+        -0.17073068022727966,
+        -0.12826348841190338,
+        -0.19216345250606537,
+        -0.06310391426086426,
+        0.508563220500946,
+        -0.4100412428379059
+      ]
+    },
+    "TS-MUM-006": {
+      "text": "Elephanta Caves Category: heritage, tourist attractions, religious, UNESCO World Heritage Site / rock-cut caves. Tags: heritage, UNESCO, caves, ferry trip, day trip, tourist_friendly. A UNESCO World Heritage Site of ancient rock-cut cave temples dedicated to Shiva, reached by ferry from the Gateway of India. Location: Elephanta Island (Gharapuri), Mumbai Harbour.",
+      "vector": [
+        0.163101464509964,
+        -0.44200459122657776,
+        -0.35606667399406433,
+        0.2747861444950104,
+        -0.5582324862480164,
+        -0.18519259989261627,
+        0.07297249883413315,
+        -0.35473522543907166,
+        0.31409716606140137
+      ]
+    },
+    "TS-MUM-007": {
+      "text": "Mohammed Ali Road Street Food Area Category: food, street_food, street food area. Tags: street food, local food, evening food walk, local experience, budget_friendly, tourist_friendly. A well-known street-food stretch with numerous stalls, especially busy and popular in the evenings and during Ramadan; offers a range of local non-vegetarian and dessert specialties. Location: Mohammed Ali Road, near Crawford Market, Mumbai.",
+      "vector": [
+        0.8147356510162354,
+        0.5186858177185059,
+        -0.24339134991168976,
+        0.0050493087619543076,
+        -0.05141107365489006,
+        0.033439166843891144,
+        -0.024986963719129562,
+        -0.037922970950603485,
+        -0.045631784945726395
+      ]
+    },
+    "TS-MUM-008": {
+      "text": "Khau Gully (CSMT area street food lane) Category: food, street_food, street food lane. Tags: street food, local food, quick bite, local experience, budget_friendly. A cluster of street-food stalls near CSMT popular with office-goers and visitors for quick local snacks. Location: Near Chhatrapati Shivaji Maharaj Terminus (CSMT), Fort, Mumbai.",
+      "vector": [
+        0.7392751574516296,
+        0.5876745581626892,
+        -0.30007317662239075,
+        0.022738102823495865,
+        -0.08356565982103348,
+        -0.06136242300271988,
+        0.06312450766563416,
+        0.02801976166665554,
+        -0.04507282376289368
+      ]
+    },
+    "TS-MUM-009": {
+      "text": "Haji Ali Dargah Category: religious, heritage, dargah / mosque and shrine. Tags: religious, spiritual, heritage, waterfront, causeway walk, tourist_friendly, family_friendly, budget_friendly. A mosque and dargah (shrine) built on an islet off the coast of Worli, connected to the mainland by a causeway walkway that is only accessible at low tide. Location: Dargah Road, Haji Ali, Mumbai.",
+      "vector": [
+        0.21098481118679047,
+        -0.30624327063560486,
+        -0.22403647005558014,
+        0.14215530455112457,
+        0.14259997010231018,
+        0.8653626441955566,
+        0.14796790480613708,
+        0.006462989840656519,
+        0.013284754939377308
+      ]
+    },
+    "TS-MUM-010": {
+      "text": "Marine Drive Category: entertainment, tourist attractions, promenade. Tags: waterfront, sunset, evening walk, local experience, must-visit, family_friendly, tourist_friendly, budget_friendly. A 3.6 km curved boulevard along the Arabian Sea coast, nicknamed the 'Queen's Necklace' for how its streetlights look at night; popular for evening walks and sunset views. Location: Netaji Subhash Chandra Bose Road, Mumbai.",
+      "vector": [
+        0.2548217177391052,
+        -0.29974672198295593,
+        -0.24386945366859436,
+        -0.5799466967582703,
+        0.5041278004646301,
+        -0.15376195311546326,
+        -0.02630254253745079,
+        -0.3932565748691559,
+        0.1275819092988968
+      ]
+    }
+  }
+}

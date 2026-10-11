@@ -1,0 +1,25 @@
+# Core service (always required)
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
+httpx>=0.27
+numpy>=1.26
+scikit-learn>=1.4
+python-dotenv>=1.0
+
+# Testing
+pytest>=8.0
+
+# --- Optional, recommended for real (non-demo) use ---
+# Real semantic embeddings. Without this installed, the service
+# automatically falls back to a TF-IDF/SVD embedder (see embeddings/embedder.py)
+# so it still runs, just with weaker semantic matching.
+sentence-transformers>=3.0
+
+# Gemini structured intent extraction. Without this (or without
+# GEMINI_API_KEY set), the service automatically falls back to the
+# rule-based extractor in intent/gemini_intent.py.
+google-genai>=0.3
+
+# Only needed if MUMBAI_DATA_SOURCE=mysql or FEEDBACK_STORE=mysql.
+pymysql>=1.1

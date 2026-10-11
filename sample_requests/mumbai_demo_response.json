@@ -1,0 +1,410 @@
+{
+  "query_id": "Q-893411839b19",
+  "mode": "mumbai",
+  "intent": {
+    "raw_query": "We are 3 people with ₹2000 each. We have around 2 hours and want local shopping and handicrafts around Colaba.",
+    "location_text": "Colaba",
+    "latitude": 18.9067,
+    "longitude": 72.8147,
+    "radius_km": 3.0,
+    "city": "Mumbai",
+    "categories": [
+      "shopping",
+      "handicrafts"
+    ],
+    "budget": {
+      "amount": 2000.0,
+      "currency": "INR",
+      "basis": "per_person",
+      "is_max": true
+    },
+    "group_size": 3,
+    "duration_minutes": 120,
+    "traveller_type": null,
+    "preferences": [
+      "local"
+    ],
+    "time_constraint": null,
+    "extraction_method": "rule_based",
+    "confidence": 0.55
+  },
+  "recommendations": [
+    {
+      "place_id": "mumbai:TS-MUM-001",
+      "source": "mumbai",
+      "name": "Colaba Causeway Market",
+      "address": "Shahid Bhagat Singh Road, Colaba, Mumbai",
+      "latitude": 18.907,
+      "longitude": 72.8115,
+      "category": [
+        "shopping",
+        "markets",
+        "street market"
+      ],
+      "distance_km": 0.34,
+      "estimated_cost_per_person": null,
+      "cost_note": "Free entry; spend varies",
+      "rating": null,
+      "opening_status": "unknown",
+      "semantic_score": 0.6652,
+      "constraint_score": 0.6416,
+      "final_score": 0.6511,
+      "match_reasons": [
+        "Matches shopping preference",
+        "Located in/near Colaba",
+        "Close to your specified location"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.6652,
+        "distance_score": 0.9248,
+        "budget_score": null,
+        "time_score": null,
+        "group_score": null,
+        "quality_score": null,
+        "local_score": null,
+        "final_score": 0.6511
+      },
+      "details": {
+        "id": "mumbai:TS-MUM-001",
+        "source": "mumbai",
+        "source_id": "TS-MUM-001",
+        "name": "Colaba Causeway Market",
+        "address": "Shahid Bhagat Singh Road, Colaba, Mumbai",
+        "latitude": 18.907,
+        "longitude": 72.8115,
+        "categories": [
+          "shopping",
+          "markets",
+          "street market"
+        ],
+        "tags": [
+          "shopping",
+          "souvenirs",
+          "local experience",
+          "street market",
+          "bargaining",
+          "budget_friendly",
+          "tourist_friendly",
+          "family_friendly"
+        ],
+        "description": "A long, busy street market in Colaba known for clothing, accessories, jewelry, souvenirs and handicrafts stalls; a popular spot for local and tourist shopping.",
+        "cost": {
+          "min_inr": null,
+          "max_inr": null,
+          "basis": "unknown",
+          "is_free": null,
+          "note": "Free entry; spend varies"
+        },
+        "capacity": {
+          "min_people": null,
+          "max_people": null,
+          "raw": null
+        },
+        "duration_minutes": null,
+        "rating": null,
+        "review_count": null,
+        "price_level": null,
+        "opening_hours": {
+          "weekly_closure": null,
+          "open_now": null,
+          "hours_text": "Typically daytime into early evening; exact vendor hours vary"
+        },
+        "business_status": null,
+        "local": {
+          "local_score": null,
+          "local_confidence": null,
+          "local_recommendation_count": null,
+          "local_tips": []
+        },
+        "last_verified": null,
+        "source_url": null,
+        "embedding_text": "Colaba Causeway Market Category: shopping, markets, street market. Tags: shopping, souvenirs, local experience, street market, bargaining, budget_friendly, tourist_friendly, family_friendly. A long, busy street market in Colaba known for clothing, accessories, jewelry, souvenirs and handicrafts stalls; a popular spot for local and tourist shopping. Location: Shahid Bhagat Singh Road, Colaba, Mumbai."
+      }
+    },
+    {
+      "place_id": "mumbai:TS-MUM-004",
+      "source": "mumbai",
+      "name": "Kala Ghoda Art District",
+      "address": "Kala Ghoda, Fort, Mumbai",
+      "latitude": 18.9284,
+      "longitude": 72.8321,
+      "category": [
+        "culture",
+        "heritage",
+        "shopping",
+        "art district"
+      ],
+      "distance_km": 3.03,
+      "estimated_cost_per_person": null,
+      "cost_note": "Free to walk around; individual gallery/event entry varies",
+      "rating": null,
+      "opening_status": "unknown",
+      "semantic_score": 0.5175,
+      "constraint_score": 0.4423,
+      "final_score": 0.4724,
+      "match_reasons": [
+        "Matches shopping preference",
+        "Located in/near Colaba"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.5175,
+        "distance_score": 0.327,
+        "budget_score": null,
+        "time_score": null,
+        "group_score": null,
+        "quality_score": null,
+        "local_score": null,
+        "final_score": 0.4724
+      },
+      "details": {
+        "id": "mumbai:TS-MUM-004",
+        "source": "mumbai",
+        "source_id": "TS-MUM-004",
+        "name": "Kala Ghoda Art District",
+        "address": "Kala Ghoda, Fort, Mumbai",
+        "latitude": 18.9284,
+        "longitude": 72.8321,
+        "categories": [
+          "culture",
+          "heritage",
+          "shopping",
+          "art district"
+        ],
+        "tags": [
+          "culture",
+          "art",
+          "galleries",
+          "heritage walk",
+          "local experience",
+          "tourist_friendly",
+          "family_friendly"
+        ],
+        "description": "A heritage arts precinct with art galleries (e.g. Jehangir Art Gallery), museums nearby, boutique stores and street art; hosts the annual Kala Ghoda Arts Festival.",
+        "cost": {
+          "min_inr": null,
+          "max_inr": null,
+          "basis": "unknown",
+          "is_free": null,
+          "note": "Free to walk around; individual gallery/event entry varies"
+        },
+        "capacity": {
+          "min_people": null,
+          "max_people": null,
+          "raw": null
+        },
+        "duration_minutes": null,
+        "rating": null,
+        "review_count": null,
+        "price_level": null,
+        "opening_hours": {
+          "weekly_closure": null,
+          "open_now": null,
+          "hours_text": "Precinct accessible during daytime; individual galleries have their own hours"
+        },
+        "business_status": null,
+        "local": {
+          "local_score": null,
+          "local_confidence": null,
+          "local_recommendation_count": null,
+          "local_tips": []
+        },
+        "last_verified": null,
+        "source_url": null,
+        "embedding_text": "Kala Ghoda Art District Category: culture, heritage, shopping, art district. Tags: culture, art, galleries, heritage walk, local experience, tourist_friendly, family_friendly. A heritage arts precinct with art galleries (e.g. Jehangir Art Gallery), museums nearby, boutique stores and street art; hosts the annual Kala Ghoda Arts Festival. Location: Kala Ghoda, Fort, Mumbai."
+      }
+    },
+    {
+      "place_id": "mumbai:TS-MUM-003",
+      "source": "mumbai",
+      "name": "Chor Bazaar",
+      "address": "Mutton Street, Null Bazaar area, Mumbai",
+      "latitude": 18.9598,
+      "longitude": 72.83,
+      "category": [
+        "shopping",
+        "markets",
+        "handicrafts",
+        "antiques / flea market"
+      ],
+      "distance_km": 6.12,
+      "estimated_cost_per_person": null,
+      "cost_note": "Free entry; spend varies (bargaining expected)",
+      "rating": null,
+      "opening_status": "unknown",
+      "semantic_score": 0.4843,
+      "constraint_score": 0.3333,
+      "final_score": 0.3937,
+      "match_reasons": [
+        "Matches handicrafts, shopping preference",
+        "Located in/near Colaba"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4843,
+        "distance_score": 0.0,
+        "budget_score": null,
+        "time_score": null,
+        "group_score": null,
+        "quality_score": null,
+        "local_score": null,
+        "final_score": 0.3937
+      },
+      "details": {
+        "id": "mumbai:TS-MUM-003",
+        "source": "mumbai",
+        "source_id": "TS-MUM-003",
+        "name": "Chor Bazaar",
+        "address": "Mutton Street, Null Bazaar area, Mumbai",
+        "latitude": 18.9598,
+        "longitude": 72.83,
+        "categories": [
+          "shopping",
+          "markets",
+          "handicrafts",
+          "antiques / flea market"
+        ],
+        "tags": [
+          "shopping",
+          "antiques",
+          "vintage",
+          "local experience",
+          "bargaining",
+          "hidden gem",
+          "tourist_friendly",
+          "offbeat"
+        ],
+        "description": "One of Mumbai's oldest flea markets, known for antiques, vintage furniture, old Bollywood memorabilia, curios and secondhand goods.",
+        "cost": {
+          "min_inr": null,
+          "max_inr": null,
+          "basis": "unknown",
+          "is_free": null,
+          "note": "Free entry; spend varies (bargaining expected)"
+        },
+        "capacity": {
+          "min_people": null,
+          "max_people": null,
+          "raw": null
+        },
+        "duration_minutes": null,
+        "rating": null,
+        "review_count": null,
+        "price_level": null,
+        "opening_hours": {
+          "weekly_closure": [
+            "Friday"
+          ],
+          "open_now": null,
+          "hours_text": "Daytime"
+        },
+        "business_status": null,
+        "local": {
+          "local_score": null,
+          "local_confidence": null,
+          "local_recommendation_count": null,
+          "local_tips": []
+        },
+        "last_verified": null,
+        "source_url": null,
+        "embedding_text": "Chor Bazaar Category: shopping, markets, handicrafts, antiques / flea market. Tags: shopping, antiques, vintage, local experience, bargaining, hidden gem, tourist_friendly, offbeat. One of Mumbai's oldest flea markets, known for antiques, vintage furniture, old Bollywood memorabilia, curios and secondhand goods. Location: Mutton Street, Null Bazaar area, Mumbai."
+      }
+    },
+    {
+      "place_id": "mumbai:TS-MUM-002",
+      "source": "mumbai",
+      "name": "Crawford Market (Mahatma Jyotiba Phule Mandai)",
+      "address": "Lokmanya Tilak Road, near Dhobi Talao, Fort, Mumbai",
+      "latitude": 18.947,
+      "longitude": 72.8347,
+      "category": [
+        "shopping",
+        "markets",
+        "wholesale/retail market"
+      ],
+      "distance_km": 4.95,
+      "estimated_cost_per_person": null,
+      "cost_note": "Free entry; spend varies",
+      "rating": null,
+      "opening_status": "unknown",
+      "semantic_score": 0.4568,
+      "constraint_score": 0.3333,
+      "final_score": 0.3827,
+      "match_reasons": [
+        "Matches shopping preference",
+        "Located in/near Colaba"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4568,
+        "distance_score": 0.0,
+        "budget_score": null,
+        "time_score": null,
+        "group_score": null,
+        "quality_score": null,
+        "local_score": null,
+        "final_score": 0.3827
+      },
+      "details": {
+        "id": "mumbai:TS-MUM-002",
+        "source": "mumbai",
+        "source_id": "TS-MUM-002",
+        "name": "Crawford Market (Mahatma Jyotiba Phule Mandai)",
+        "address": "Lokmanya Tilak Road, near Dhobi Talao, Fort, Mumbai",
+        "latitude": 18.947,
+        "longitude": 72.8347,
+        "categories": [
+          "shopping",
+          "markets",
+          "wholesale/retail market"
+        ],
+        "tags": [
+          "shopping",
+          "local market",
+          "heritage building",
+          "spices",
+          "fruit",
+          "budget_friendly",
+          "tourist_friendly"
+        ],
+        "description": "A historic covered market (built in the 1860s) selling fruit, spices, household goods, pets and general merchandise; a well-known Mumbai heritage shopping landmark.",
+        "cost": {
+          "min_inr": null,
+          "max_inr": null,
+          "basis": "unknown",
+          "is_free": null,
+          "note": "Free entry; spend varies"
+        },
+        "capacity": {
+          "min_people": null,
+          "max_people": null,
+          "raw": null
+        },
+        "duration_minutes": null,
+        "rating": null,
+        "review_count": null,
+        "price_level": null,
+        "opening_hours": {
+          "weekly_closure": null,
+          "open_now": null,
+          "hours_text": "Daytime; closed on Sundays for wholesale trading (retail sections vary)"
+        },
+        "business_status": null,
+        "local": {
+          "local_score": null,
+          "local_confidence": null,
+          "local_recommendation_count": null,
+          "local_tips": []
+        },
+        "last_verified": null,
+        "source_url": null,
+        "embedding_text": "Crawford Market (Mahatma Jyotiba Phule Mandai) Category: shopping, markets, wholesale/retail market. Tags: shopping, local market, heritage building, spices, fruit, budget_friendly, tourist_friendly. A historic covered market (built in the 1860s) selling fruit, spices, household goods, pets and general merchandise; a well-known Mumbai heritage shopping landmark. Location: Lokmanya Tilak Road, near Dhobi Talao, Fort, Mumbai."
+      }
+    }
+  ],
+  "engine_meta": {
+    "candidates_considered": 4,
+    "candidates_after_constraints": 4,
+    "engine": "mumbai",
+    "data_source": "json/mysql",
+    "warnings": []
+  },
+  "generated_at": 1790417266.5104313
+}

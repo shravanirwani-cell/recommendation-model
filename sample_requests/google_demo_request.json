@@ -1,0 +1,8 @@
+{
+  "query": "Find good cafes near Bangalore airport for 2 people.",
+  "mode": "auto",
+  "user_id": "user_456",
+  "latitude": null,
+  "longitude": null,
+  "top_k": 5
+}

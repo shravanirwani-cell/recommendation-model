@@ -1,0 +1,273 @@
+{
+  "query_id": "Q-0231dcc00111",
+  "mode": "google",
+  "intent": {
+    "raw_query": "Find good cafes near Bangalore airport for 2 people.",
+    "location_text": "Bangalore airport",
+    "latitude": null,
+    "longitude": null,
+    "radius_km": null,
+    "city": null,
+    "categories": [
+      "cafe"
+    ],
+    "budget": null,
+    "group_size": 2,
+    "duration_minutes": null,
+    "traveller_type": null,
+    "preferences": [],
+    "time_constraint": null,
+    "extraction_method": "rule_based",
+    "confidence": 0.55
+  },
+  "recommendations": [
+    {
+      "place_id": "google:MOCK_PLACE_cafe_0",
+      "source": "google",
+      "name": "[MOCK] Cafe Spot 1 near Bangalore airport",
+      "address": "Bangalore airport, mock address 1",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "category": [
+        "cafe",
+        "cafe"
+      ],
+      "distance_km": null,
+      "estimated_cost_per_person": null,
+      "cost_note": null,
+      "rating": null,
+      "opening_status": "unknown",
+      "semantic_score": 0.584,
+      "constraint_score": 0.5,
+      "final_score": 0.5336,
+      "match_reasons": [
+        "Matches cafe preference",
+        "Located in/near Bangalore airport"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.584,
+        "distance_score": null,
+        "budget_score": null,
+        "time_score": null,
+        "group_score": null,
+        "quality_score": null,
+        "local_score": null,
+        "final_score": 0.5336
+      },
+      "details": {
+        "id": "google:MOCK_PLACE_cafe_0",
+        "source": "google",
+        "source_id": "MOCK_PLACE_cafe_0",
+        "name": "[MOCK] Cafe Spot 1 near Bangalore airport",
+        "address": "Bangalore airport, mock address 1",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "categories": [
+          "cafe",
+          "cafe"
+        ],
+        "tags": [],
+        "description": null,
+        "cost": {
+          "min_inr": null,
+          "max_inr": null,
+          "basis": "unknown",
+          "is_free": null,
+          "note": null
+        },
+        "capacity": {
+          "min_people": null,
+          "max_people": null,
+          "raw": null
+        },
+        "duration_minutes": null,
+        "rating": null,
+        "review_count": null,
+        "price_level": null,
+        "opening_hours": {
+          "weekly_closure": null,
+          "open_now": null,
+          "hours_text": null
+        },
+        "business_status": "OPERATIONAL",
+        "local": {
+          "local_score": null,
+          "local_confidence": null,
+          "local_recommendation_count": null,
+          "local_tips": []
+        },
+        "last_verified": null,
+        "source_url": null,
+        "embedding_text": "[MOCK] Cafe Spot 1 near Bangalore airport Category: cafe, cafe. Location: Bangalore airport, mock address 1."
+      }
+    },
+    {
+      "place_id": "google:MOCK_PLACE_cafe_1",
+      "source": "google",
+      "name": "[MOCK] Cafe Spot 2 near Bangalore airport",
+      "address": "Bangalore airport, mock address 2",
+      "latitude": 12.973600000000001,
+      "longitude": 77.5926,
+      "category": [
+        "cafe",
+        "cafe"
+      ],
+      "distance_km": null,
+      "estimated_cost_per_person": null,
+      "cost_note": null,
+      "rating": null,
+      "opening_status": "unknown",
+      "semantic_score": 0.584,
+      "constraint_score": 0.5,
+      "final_score": 0.5336,
+      "match_reasons": [
+        "Matches cafe preference",
+        "Located in/near Bangalore airport"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.584,
+        "distance_score": null,
+        "budget_score": null,
+        "time_score": null,
+        "group_score": null,
+        "quality_score": null,
+        "local_score": null,
+        "final_score": 0.5336
+      },
+      "details": {
+        "id": "google:MOCK_PLACE_cafe_1",
+        "source": "google",
+        "source_id": "MOCK_PLACE_cafe_1",
+        "name": "[MOCK] Cafe Spot 2 near Bangalore airport",
+        "address": "Bangalore airport, mock address 2",
+        "latitude": 12.973600000000001,
+        "longitude": 77.5926,
+        "categories": [
+          "cafe",
+          "cafe"
+        ],
+        "tags": [],
+        "description": null,
+        "cost": {
+          "min_inr": null,
+          "max_inr": null,
+          "basis": "unknown",
+          "is_free": null,
+          "note": null
+        },
+        "capacity": {
+          "min_people": null,
+          "max_people": null,
+          "raw": null
+        },
+        "duration_minutes": null,
+        "rating": null,
+        "review_count": null,
+        "price_level": null,
+        "opening_hours": {
+          "weekly_closure": null,
+          "open_now": null,
+          "hours_text": null
+        },
+        "business_status": "OPERATIONAL",
+        "local": {
+          "local_score": null,
+          "local_confidence": null,
+          "local_recommendation_count": null,
+          "local_tips": []
+        },
+        "last_verified": null,
+        "source_url": null,
+        "embedding_text": "[MOCK] Cafe Spot 2 near Bangalore airport Category: cafe, cafe. Location: Bangalore airport, mock address 2."
+      }
+    },
+    {
+      "place_id": "google:MOCK_PLACE_cafe_2",
+      "source": "google",
+      "name": "[MOCK] Cafe Spot 3 near Bangalore airport",
+      "address": "Bangalore airport, mock address 3",
+      "latitude": 12.9756,
+      "longitude": 77.5906,
+      "category": [
+        "cafe",
+        "cafe"
+      ],
+      "distance_km": null,
+      "estimated_cost_per_person": null,
+      "cost_note": null,
+      "rating": null,
+      "opening_status": "unknown",
+      "semantic_score": 0.584,
+      "constraint_score": 0.5,
+      "final_score": 0.5336,
+      "match_reasons": [
+        "Matches cafe preference",
+        "Located in/near Bangalore airport"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.584,
+        "distance_score": null,
+        "budget_score": null,
+        "time_score": null,
+        "group_score": null,
+        "quality_score": null,
+        "local_score": null,
+        "final_score": 0.5336
+      },
+      "details": {
+        "id": "google:MOCK_PLACE_cafe_2",
+        "source": "google",
+        "source_id": "MOCK_PLACE_cafe_2",
+        "name": "[MOCK] Cafe Spot 3 near Bangalore airport",
+        "address": "Bangalore airport, mock address 3",
+        "latitude": 12.9756,
+        "longitude": 77.5906,
+        "categories": [
+          "cafe",
+          "cafe"
+        ],
+        "tags": [],
+        "description": null,
+        "cost": {
+          "min_inr": null,
+          "max_inr": null,
+          "basis": "unknown",
+          "is_free": null,
+          "note": null
+        },
+        "capacity": {
+          "min_people": null,
+          "max_people": null,
+          "raw": null
+        },
+        "duration_minutes": null,
+        "rating": null,
+        "review_count": null,
+        "price_level": null,
+        "opening_hours": {
+          "weekly_closure": null,
+          "open_now": null,
+          "hours_text": null
+        },
+        "business_status": "OPERATIONAL",
+        "local": {
+          "local_score": null,
+          "local_confidence": null,
+          "local_recommendation_count": null,
+          "local_tips": []
+        },
+        "last_verified": null,
+        "source_url": null,
+        "embedding_text": "[MOCK] Cafe Spot 3 near Bangalore airport Category: cafe, cafe. Location: Bangalore airport, mock address 3."
+      }
+    }
+  ],
+  "engine_meta": {
+    "candidates_considered": 3,
+    "candidates_after_constraints": 3,
+    "engine": "google",
+    "data_source": "google_places_api/mock",
+    "warnings": []
+  },
+  "generated_at": 1790417266.5155218
+}
